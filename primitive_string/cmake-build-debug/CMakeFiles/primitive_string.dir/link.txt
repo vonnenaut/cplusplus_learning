@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/primitive_string.dir/main.cpp.o  -o primitive_string 
