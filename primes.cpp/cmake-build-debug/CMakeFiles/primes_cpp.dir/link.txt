@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/primes_cpp.dir/main.cpp.o  -o primes_cpp 
