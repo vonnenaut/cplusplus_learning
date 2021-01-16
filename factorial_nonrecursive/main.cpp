@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BigIntegerLibrary.hh"
+#include "BigIntegerLibrary.h"
 
 unsigned BigInteger factorial(unsigned BigInteger value);
 
